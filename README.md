@@ -1,2 +1,2 @@
 # VotingSystem
-Voting system project made with html, php, javascript, css and phpmyadmin as bd
+Voting system project made with html, php, javascript, css and MySQL as database
